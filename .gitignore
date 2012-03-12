@@ -1,6 +1,44 @@
-.classpath
+# eclipse
+*.pydevproject
 .project
-.settings
-.iws
-.ipr
-.iml
+.metadata
+.classpath
+.settings/
+.loadpath
+# External tool builders
+.externalToolBuilders/
+# Locally stored "Eclipse launch configurations"
+*.launch
+# CDT-specific
+.cproject
+# PDT-specific
+.buildpath
+
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# vim
+.*.sw[a-z]
+*.un~
+Session.vim
+
+# os x
+.DS_Store
+# Thumbnails
+#._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# win
+# Windows image file caches
+Thumbs.db 
+# Folder config file
+Desktop.ini
+
+# linux
+# KDE
+.directory
